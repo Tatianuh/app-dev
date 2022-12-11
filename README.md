@@ -9,7 +9,7 @@ My first repository
   
 ## Movies
   - `The Shape of Water 🌊🧜‍♂️`
-  - `Grave of the Fireflies 🎇💣`
+  - `Grave of the Fireflies 🎇💡`
 
 
 A bit of information about them:
