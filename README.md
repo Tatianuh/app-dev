@@ -24,5 +24,5 @@ A bit of information about them:
 **Movies**
 |               |               |
 | ------------- | ------------- |
-| ![Shape!](/assets/css/waterp.jpg "Shapeow")| <p align = "center"> `The Shape of Water ♂️` </p><br> Set in 1962 Baltimore, Maryland, the film follows a mute cleaner at a high-security government laboratory who falls in love with a captured humanoid amphibian creature, and decides to help him escape from death at the hands of an evil colonel.  |
+| ![Shape!](/assets/css/waterp.jpg "Shapeow")| <p align = "center"> `The Shape of Water ` </p><br> Set in 1962 Baltimore, Maryland, the film follows a mute cleaner at a high-security government laboratory who falls in love with a captured humanoid amphibian creature, and decides to help him escape from death at the hands of an evil colonel.  |
 | ![Grave!](/assets/css/gravep.jpg "GOTF")  | <p align = "center"> `Grave of the Fireflies ` </p><br> A devastating meditation on the human cost of war, this animated tale follows Seita (Tsutomu Tatsumi), a teenager charged with the care of his younger sister, Setsuko (Ayano Shiraishi), after an American firebombing during World War II separates the two children from their parents. Their tale of survival is as heartbreaking as it is true to life. The siblings rely completely on each other and struggle against all odds to stay together and stay alive.  |
