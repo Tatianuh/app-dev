@@ -1,12 +1,16 @@
 # app-dev
 My first repository
 
-Some of my favorites series and movies are:
+# Some of my favorites series and movies are:
 
-|  **Series**   |  **Movies**   |
-| ------------- | ------------- |
-| Sex Education | The Shape of Water  |
-| Euphoria  | Whisper of the Heart  |
+## Series
+  - `Sex Education 💕📕`
+  - `Euphoria 💜✨`
+  
+## Movies
+  - `The Shape of Water 🌊🧜‍♂️`
+  - `Grave of the Fireflies 🎇💣`
+
 
 A bit of information about them:
 
@@ -19,5 +23,5 @@ A bit of information about them:
 **Movies**
 |               |               |
 | ------------- | ------------- |
-| ![Shape!](/assets/css/shape.jpg "Shapeow")| Set in 1962 Baltimore, Maryland, the film follows a mute cleaner at a high-security government laboratory who falls in love with a captured humanoid amphibian creature, and decides to help him escape from death at the hands of an evil colonel.  |
-| ![Grave!](/assets/css/grave.jpg "GOTF")  | Based on the manga with the same title, this animated film follows Shizuku, an inquisitive young girl and a voracious reader, who longs to be a writer when she grows up. One day she notices that all of her library books have previously been taken out by one Seiji Amasawa. Amid chasing after a large cat, befriending an eccentric antiques dealer and writing her first novel, Shizuku aims to find this mysterious boy who may well be her soul mate.  |
+| ![Shape!](/assets/css/shaper.jpg "Shapeow")| Set in 1962 Baltimore, Maryland, the film follows a mute cleaner at a high-security government laboratory who falls in love with a captured humanoid amphibian creature, and decides to help him escape from death at the hands of an evil colonel.  |
+| ![Grave!](/assets/css/grave.jpg "GOTF")  | A devastating meditation on the human cost of war, this animated tale follows Seita (Tsutomu Tatsumi), a teenager charged with the care of his younger sister, Setsuko (Ayano Shiraishi), after an American firebombing during World War II separates the two children from their parents. Their tale of survival is as heartbreaking as it is true to life. The siblings rely completely on each other and struggle against all odds to stay together and stay alive.  |
